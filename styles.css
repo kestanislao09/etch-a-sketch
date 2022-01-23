@@ -1,0 +1,15 @@
+.container {
+    border: solid;
+    border-width: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    height: 480px;
+}
+
+div {
+    flex: 1 1 auto;
+    margin: 0;
+    padding: 0;
+}
+
