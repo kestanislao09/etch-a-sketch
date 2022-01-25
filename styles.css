@@ -5,11 +5,19 @@
     flex-wrap: wrap;
     width: 480px;
     height: 480px;
+    margin: 0;
 }
 
 div {
     flex: 1 1 auto;
     margin: 0;
     padding: 0;
+    background-color: white;
+
 }
 
+button {
+    height: 48px;
+    width: 88px;
+    background-color: white;
+}
